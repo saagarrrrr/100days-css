@@ -16,7 +16,7 @@
     background: linear-gradient(to top right, #43389F 0%, #4ec6ca 100%); 
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#43389F', endColorstr='#4ec6ca',GradientType=1 ); 
     font-family: 'Courier New', 'Courier', sans-serif;
-    color: #fff;
+    color: #ac1e1e;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
@@ -40,7 +40,7 @@
       left: -16px;
       height: 40px;
       width: 20px;
-      background: #fff;
+      background: #eeebeb;
       border-radius: 3px;
       transform: rotate(50deg);
       box-shadow: 0 0 13px 0 rgba(0,0,0,0.2);
@@ -53,9 +53,9 @@
       left: 0px;
       height: 100px;
       width: 24px;
-      background: #fff;
+      background: #fcf8f8;
       border-radius: 3px;
-      box-shadow: 0 0 13px 0 rgba(163, 52, 52, 0.2);
+      box-shadow: 0 0 13px 0 rgba(0,0,0,0.2);
     }
   
     .zero-one, 
@@ -68,7 +68,7 @@
       height: 100px;
       width: 100px;
       border-radius: 50%;
-      border: 24px solid #fff;
+      border: 24px solid #e9e7e7;
       box-shadow: 0 0 13px 0 rgba(0,0,0,0.2);
     }
   
