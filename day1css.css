@@ -9,11 +9,11 @@
     margin-left: -200px;
     border-radius: 2px;
     box-shadow: 1px 2px 10px 0px rgba(0,0,0,0.3);
-    background: #43389F;
-    background: -webkit-linear-gradient(bottom left, #43389F 0%, #4ec6ca 100%);
-    background: -moz-linear-gradient(bottom left, #43389F 0%, #4ec6ca 100%);
-    background: -o-linear-gradient(bottom left, #43389F 0%, #4ec6ca 100%);
-    background: linear-gradient(to top right, #43389F 0%, #4ec6ca 100%); 
+    background: #434344;
+    background: -webkit-linear-gradient(bottom left, #34333e 0%, #8c4eca 100%);
+    background: -moz-linear-gradient(bottom left, #3f3e4a 0%, #904eca 100%);
+    background: -o-linear-gradient(bottom left, #43389F 0%, #b470db 100%);
+    background: linear-gradient(to top right, #32313d 0%, #7e4e96 100%); 
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#43389F', endColorstr='#4ec6ca',GradientType=1 ); 
     font-family: 'Courier New', 'Courier', sans-serif;
     color: #ac1e1e;
